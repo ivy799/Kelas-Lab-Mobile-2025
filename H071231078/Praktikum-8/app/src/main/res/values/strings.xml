@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TP_8</string>
+    <string name="title">title</string>
+    <string name="description">description</string>
+    <string name="save">save</string>
+    <string name="delete">delete</string>
+</resources>
